@@ -1,5 +1,11 @@
 
+
+
 In the project directory run
+
+### `npm run install`
+
+Install all the project dependencies.
 
 ### `npm run backend`
 
