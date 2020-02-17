@@ -8,7 +8,7 @@ Open [http://localhost:2000](http://localhost:2000) to view it in the browser.
 
 Currently it holds following collections:
 
-#### Users
-#### Posts
-# Comments
-# LikedPosts
+* Users
+* Posts
+* Comments
+* LikedPosts
