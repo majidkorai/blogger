@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "my post",
+      "likes": 3
+    },
+    {
+      "title": "sfsf",
+      "likes": 0,
+      "id": 6
+    },
+    {
+      "title": "test post",
+      "likes": 0,
+      "id": 7
+    },
+    {
+      "title": "test",
+      "likes": 0,
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "userName": "admin@email.com",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "name": "majid",
+      "userName": "majid@email.com",
+      "password": "password"
+    }
+  ],
+  "likedPosts": [
+    {
+      "userId": 1,
+      "postId": 1
+    }
+  ]
+}

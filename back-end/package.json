@@ -1,0 +1,11 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "backend": "json-server db.json --port 2000"
+  },
+  "author": "",
+  "license": "ISC"
+}
